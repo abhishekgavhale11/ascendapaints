@@ -1,0 +1,48 @@
+.col-md-2 {
+  height: 100vh;
+}
+.card-img-top {
+  width: 100%;
+  height: 10vw;
+  object-fit: cover;
+  border-radius: 15px 50px 30px 5px;
+  opacity: 8;
+  object-fit: fill;
+}
+
+.card-body {
+  padding-top: 7px;
+  padding-bottom: 5px;
+}
+
+.card {
+  outline: none;
+  border: none;
+  background-color: #fff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  transition: transform 0.3s;
+}
+
+.card-title {
+  font-size: 23px;
+}
+
+.btb {
+  background-color: white;
+  border-color: black;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.paint-image{
+  opacity: 0.9;
+}

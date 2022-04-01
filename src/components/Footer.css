@@ -1,0 +1,24 @@
+.con-flu {
+  background-color: rgb(61, 60, 60);
+  height: 400px;
+  
+}
+
+#footerheading {
+  color: rgb(221, 221, 149);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+#address {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+

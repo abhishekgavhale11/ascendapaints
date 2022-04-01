@@ -17,6 +17,7 @@ const products = [
   },
   {
     _id: "89",
+    
     name: "Texture",
     category: "spick",
     image: "images/spick/03.JPG",

@@ -1,0 +1,26 @@
+.heading{
+    font-family: "Times New Roman", Times, serif;
+    
+    font-style:normal;
+    font-weight: 500;
+    font-size: calc(1.375rem + 0.9vw);
+    
+}
+
+.para{
+    font-size: 26px;
+    text-align: center;
+    
+
+}
+
+.inputsize{
+    height: 60px;
+    
+}
+
+.finputrow{
+    background-color:rgb(237, 237, 237);
+   
+    
+}

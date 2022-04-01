@@ -1,0 +1,46 @@
+.cardbackground{
+    background-color: aliceblue;
+    margin: 10px;
+    
+}
+
+.learn-more:hover{
+    
+    background-color: rgb(245, 241, 241);
+
+}
+
+.product-image{
+    border-radius: 8px;
+    height: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: transform 0.3s;
+} 
+
+.product-image:hover{
+    transform: translateY(-10px);
+  transition: transform 0.3s;
+}
+
+.our-product-row1{
+    background-color: lightgreen;
+    margin-bottom: 10px;
+    
+}
+.our-product-row2{
+    background-color: lightyellow;
+    margin-bottom: 10px;
+    
+}
+.our-product-row3{
+    background-color: lightblue;
+    margin-bottom: 10px;
+    
+}
+.our-product-row4{
+    background-color: lightpink;
+    margin-bottom: 10px;
+    
+}
+
+
