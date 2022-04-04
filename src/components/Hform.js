@@ -3,7 +3,7 @@ import "./Hform.css"
 
 function Hform() {
   return (
-    <div className="mt-4 mb-4 p-2">
+    <div className="h-form  mb-4 p-2">
       <form className="p-3">
         {/* heading */}
             <h2 className="text-center heading pb-1">

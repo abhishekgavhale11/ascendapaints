@@ -1,5 +1,6 @@
 import React from "react";
 import "./Imageslist.css";
+import { Link } from "react-router-dom";
 
 function imageslist() {
   return (
@@ -27,7 +28,7 @@ function imageslist() {
               textures available for different conditions and give your wall the
               perfect look
             </p>
-            <button type="button" class="btn btn-light btn-lg learn-more">Learn More</button>
+            <button type="button" class="btn btn-light btn-lg learn-more"><Link to="/texturepaints">Learn More</Link></button>
           </div>
           
 
@@ -43,7 +44,7 @@ function imageslist() {
               leverage world-class technology and innovation to bring you a wide
               array of kaleidoscopic color choices and superior features.
             </p>
-            <button type="button" class="btn btn-light btn-lg learn-more">Learn More</button>
+            <button type="button" class="btn btn-light btn-lg learn-more"><Link to="/wallpaints">Learn More</Link></button>
           </div>
 
           <div className="col-xxl-6 col-xl-6 pt-3 d-flex justify-content-start">
@@ -72,7 +73,7 @@ function imageslist() {
                 exterior emulsions will protect and preserve the freshness of
                 your home and the impression it leaves.
               </p>
-              <button type="button" class="btn btn-light btn-lg learn-more">Learn More</button>
+              <button type="button" class="btn btn-light btn-lg learn-more"><Link to="/wallpaints">Learn More</Link></button>
             </div>
           </div>
 
@@ -84,7 +85,7 @@ function imageslist() {
             <p className="p-5">
             Ascenda paints has a primer or undercoat is a preparatory coating put on materials before painting. Priming ensures better adhesion of paint to the surface, increases paint durability, and provides additional protection for the material being painted.
             </p>
-            <button type="button" class="btn btn-light btn-lg learn-more" >Learn More</button>
+            <button type="button" class="btn btn-light btn-lg learn-more"><Link to="/wallpaints">Learn More</Link></button>
           </div>
 
           <div className="col-xxl-6 col-xl-6 pt-3 d-flex justify-content-start">

@@ -1,9 +1,10 @@
 import React from "react";
 import Carousel from "./Carousel";
 import Hform from "./Hform";
-import Faqs from "./Faqs";
+
 import "./Home.css";
 import Imageslist from "./Imageslist";
+import Vlog1 from "./Vlog1"
 
 function Home() {
   return (
@@ -11,7 +12,8 @@ function Home() {
       <Carousel />
       <Hform />
       <Imageslist />
-      <Faqs />
+      
+      <Vlog1/>
     </>
   );
 }

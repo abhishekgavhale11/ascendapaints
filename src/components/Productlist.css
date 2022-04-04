@@ -1,5 +1,6 @@
-.col-md-2 {
-  height: 100vh;
+
+.w-container{
+  background-color:whitesmoke;
 }
 .card-img-top {
   width: 100%;
@@ -35,7 +36,10 @@
 .btb {
   background-color: white;
   border-color: black;
+  color:black;
 }
+
+
 
 h1 {
   font-family: "Times New Roman", Times, serif;
@@ -46,3 +50,13 @@ h1 {
 .paint-image{
   opacity: 0.9;
 }
+
+
+
+.v-form{
+   padding:20px;
+    box-shadow: 0 0 5px #000000;
+    height: 60vh;
+    background-color:white;
+}
+

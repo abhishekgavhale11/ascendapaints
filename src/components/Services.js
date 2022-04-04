@@ -5,10 +5,11 @@ function Services() {
   return (
     <>
       <section id="services" className="services">
-        <div className="container-fluid about-container" data-aos="fade-up">
-          <div className="row pt-5 mt-5">
+        <div className="container-fluid about-container me-5 " data-aos="fade-up">
+          <div className="row pt-5 justify-content-center">
+            <div className="col-8">
             <h1>House Painting Services</h1>
-            <p className="p-5">
+            <p className="p-3">
               We present to you the one-stop solution for all your House
               painting Services Mumbai agonies and hassles-Painting. Providing
               you with the best of the house painting services we have our
@@ -20,7 +21,8 @@ function Services() {
               best painters Ascenda Paints always provide you with modern
               designs and even if it is texture painting and also provide you
               with a 100% commitment to finish the work for you in the best way
-              possible. The interior home painters are extremely well-trained
+              possible.</p> 
+              <p className="p-3"> The interior home painters are extremely well-trained
               professionals as a result of which they convert your house to your
               dream space within a short time and do not compromise on what you
               would want. We provide you good quality paints and give you the
@@ -36,8 +38,9 @@ function Services() {
               earned us a lot of important and high-end clients but that does
               not make us sit back, we always aspire to be a part of everyone’s
               household and prove ourselves to them and become the best painting
-              service provider.
-            </p>
+              service provider.</p>
+            
+          </div>
           </div>
           <div className="container-fluid mt-5 pt-4 ">
             {/* <h1> Interior Design Service</h1> */}

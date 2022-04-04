@@ -1,12 +1,16 @@
 .cardbackground{
-    background-color: aliceblue;
+    background-color: lightgray;
     margin: 10px;
     
 }
 
+.learn-more{
+    background-color: rgb(87, 67, 38);
+}
+
 .learn-more:hover{
     
-    background-color: rgb(245, 241, 241);
+    background-color: rgb(228, 75, 75);
 
 }
 
@@ -23,7 +27,7 @@
 }
 
 .our-product-row1{
-    background-color: lightgreen;
+    background-color: rgb(249, 199, 184);
     margin-bottom: 10px;
     
 }

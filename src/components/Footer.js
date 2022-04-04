@@ -6,7 +6,7 @@ function Footer() {
   return (
     <>
       <div className="container-fluid con-flu">
-        <div className="container mt-5 pt-5">
+        <div className="container mt-3 pt-5">
           <div className="row">
             <div className="col-3 d-flex flex-column align-items-start ">
               <h5 id="footerheading">Company name</h5>
